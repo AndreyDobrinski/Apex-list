@@ -1,0 +1,29 @@
+.title {
+  text-align: center;
+  padding-bottom: 20px;
+  color: #333;
+}
+
+.txt {
+  color: #777;
+}
+
+.btn {
+  transition: 0.4s;
+  display: block;
+  width: 150px;
+  padding: 8px 0;
+  margin: 20px auto;
+  background: #4979ff;
+  border-radius: 4px;
+  color: white;
+  text-align: center;
+  border: 1px solid #4979ff;
+}
+
+.btn:hover {
+  color: #4979ff;
+  transition: 0.4s;
+  background: #dadff3;
+  border: 1px solid blue;
+}
